@@ -1,2 +1,3 @@
-# github.com/markeu
-# twitter.com/uche_uzochukwu
+[GitHub](http://github.com/markeu)
+
+
