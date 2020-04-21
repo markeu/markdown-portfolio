@@ -1,1 +1,12 @@
-Replace this with a list of your favorite things.
+1. Hobbies
+* Reading
+* Gisting
+* console game
+
+2. Interests
+* geo-politics
+* Capitalism
+* Technology
+* Artificial Intelligence
+* IOT
+
